@@ -1,0 +1,8 @@
+
+public class ProductManager {
+	
+	public void Add(Product product) {
+		//jdbc kodları ile veritabanına ekleyeceğiz.
+	System.out.println("Ürün eklendi" + product.name);
+	}
+}

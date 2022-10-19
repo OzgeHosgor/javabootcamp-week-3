@@ -1,0 +1,17 @@
+package interfaces;
+
+public class CustomerManager {
+	
+	ICustomerDal cus
+	
+	I
+	public void add();
+		
+	//iş kodları yazılır
+		customerDal.Add();
+	
+		
+		
+		
+	}
+}

@@ -1,0 +1,11 @@
+package interfaces;
+
+import java.util.concurrent.ConcurrentHashMap;
+
+public class MySqlCustomerDal implements ICustomerDal{
+
+	public void Add() {
+		System.out.println("My Sql eklendi");		
+	}
+
+}

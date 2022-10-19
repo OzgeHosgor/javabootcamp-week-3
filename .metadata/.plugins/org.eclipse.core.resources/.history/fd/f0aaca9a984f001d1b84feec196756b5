@@ -1,0 +1,11 @@
+package interfaces;
+
+public class CustomerManager {
+	ICustomerDal customerDal;
+	cus
+	
+		//iş kodları yazılır
+		
+		
+	}
+}

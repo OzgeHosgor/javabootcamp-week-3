@@ -1,0 +1,11 @@
+package abstractClasses;
+
+public class GameCalculator{
+	
+	private void hesapla() {
+		System.out.println("Puanınız :100");
+	}
+}
+
+
+

@@ -1,0 +1,11 @@
+package interfaceDemo;
+//bizim çalışanımız
+
+public class Worker implements IWorkeble, {
+
+	@Override
+	public void work() {
+			
+	}
+
+}

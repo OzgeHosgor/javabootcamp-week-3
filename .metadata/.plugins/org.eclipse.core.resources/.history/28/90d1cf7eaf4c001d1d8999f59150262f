@@ -1,0 +1,36 @@
+
+public class Product {
+	//aşağıdaki gibi bir nesneye ait özelliklerin sıralanmasına attribute - field deniyor
+	
+	private int _id;
+	private String _name;
+	private String _description;
+	private double _price;
+	private int _stockAmount;
+	private String _renk;
+	private String _kod;
+	
+	//getter
+	public int getId() {
+		return _id;
+	}
+	//setter
+	public void setId(int id) {
+		_id=id;
+		
+	}
+	
+	public String getname() {
+		return _name;
+	}
+	public void setname(String name) {
+		_name = name;
+	}
+	public String get_description() {
+		return _description;
+	}
+	public void set_description(String _description) {
+		this._description = _description;
+	}
+	
+}

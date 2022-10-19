@@ -1,0 +1,10 @@
+package abstractClasses;
+
+public class Main {
+	WomanGameCalculator womanGameCalculator=new WomanGameCalculator();
+	womanGameCalculator.hesapla();
+}
+
+
+
+
